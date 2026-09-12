@@ -1,0 +1,6 @@
+{
+  "name": "Task Priority & Daily Progress Dashboard",
+  "description": "Manage task priorities and visualize daily progress through an interactive dashboard with a 3-day full access trial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
